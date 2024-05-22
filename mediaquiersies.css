@@ -1,0 +1,16 @@
+@media (min-width: 1200px) {
+    a{
+        font-size: var(--size-lg);
+    }
+
+    .nav-more-bnt{
+        display: flex;
+        justify-content: center;
+        min-width: var(--size-xl);
+        min-height: var(--size-xl);
+        padding: var(--size-s);
+        border-radius: 10%;
+        gap: 10px;
+    }
+
+}
